@@ -1,0 +1,4 @@
+﻿  TPP5.cpp
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+TPP5.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  TPP5.vcxproj -> C:\Users\mrcan\source\repos\TPP5\Debug\TPP5.exe
