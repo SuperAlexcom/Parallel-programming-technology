@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Send в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Recv в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_size в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_rank в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Init в функции _main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Finalize в функции _main.
+C:\Program Files\MPICH2\lib\mpi.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\mrcan\source\repos\MPI1\Debug\MPI1.exe : fatal error LNK1120: неразрешенных внешних элементов: 6
