@@ -1,0 +1,5 @@
+﻿  TPP3.cpp
+C:\Users\mrcan\source\repos\TPP3\TPP3\TPP3.cpp(15,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\mrcan\source\repos\TPP3\TPP3\TPP3.cpp(26,27): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\mrcan\source\repos\TPP3\TPP3\TPP3.cpp(29,12): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "1" имеет тип "int"
+  TPP3.vcxproj -> C:\Users\mrcan\source\repos\TPP3\Debug\TPP3.exe
